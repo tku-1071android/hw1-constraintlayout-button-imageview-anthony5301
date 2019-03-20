@@ -42,7 +42,6 @@
         android:layout_marginTop="217dp"
         android:layout_marginEnd="142dp"
         android:layout_marginBottom="11dp"
-        android:visibility="visible"
         app:layout_constraintBottom_toTopOf="@+id/text1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.495"
